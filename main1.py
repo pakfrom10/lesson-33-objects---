@@ -9,3 +9,5 @@ class vehicle:
         self.mileage=mileage
 dodge=vehicle(12,189)
 print("the mileage of the dodge is {} and the maxium speed is {}".format(dodge.mileage,dodge.max_speed))
+bmw=vehicle(12,232)
+print("the mileage of the bmw is {} and the maxium speed is {}".format(bmw.mileage,bmw.max_speed))
